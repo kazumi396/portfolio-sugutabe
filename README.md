@@ -14,7 +14,7 @@
 
 ## 公開 URL
 
-[https://www.haritoitoworld.com/sugutabe/](https://www.haritoitoworld.com/sugutabe/)
+[https://kpeacemkm.sakura.ne.jp/portfolio/sugutabe/](https://kpeacemkm.sakura.ne.jp/portfolio/sugutabe/)
 
 ## 使用技術
 
